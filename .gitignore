@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/MyNewWebMarket/.vs/MyNewWebMarket
+/MyNewWebMarket/MyNewMarket.Dal/bin/Debug/netcoreapp3.1
+/MyNewWebMarket/MyNewMarket.Dal/obj
